@@ -8,6 +8,9 @@ namespace TestGitapp
 {
     public class Class1
     {
-
+        public static void main(string[] a)
+        {
+            Console.WriteLine("This is conflict");
+        }
     }
 }
