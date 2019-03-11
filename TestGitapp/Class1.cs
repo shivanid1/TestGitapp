@@ -8,6 +8,10 @@ namespace TestGitapp
 {
     public class Class1
     {
-
+       public static void Main(string[] a)
+        {
+            Console.WriteLine("Working on development");
+            Console.ReadLine();
+        }
     }
 }
